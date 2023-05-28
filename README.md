@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajaul2810&label=Profile%20views&color=0e75b6&style=flat" alt="rajaul2810" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajaul2810" alt="rajaul2810" /></a> </p>
-
 - 🌱 I’m currently learning **Data Science, Machine Learning, Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://rajaul-s-portfolio.web.app/](https://rajaul-s-portfolio.web.app/)
