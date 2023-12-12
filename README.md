@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://rajaul-s-portfolio.web.app/](https://rajaul-s-portfolio.web.app/)
+- 👨‍💻 All of my projects are available at [(https://rajaul.vercel.app/)](https://rajaul.vercel.app/)
 
 - 💬 Ask me about **React, Python**
 
