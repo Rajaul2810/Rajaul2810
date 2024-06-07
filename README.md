@@ -28,7 +28,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 | Category         | Skills    | Icons      |
-| :---------------: |:----------------------------------------------------------------------------------- : | :----------------------- |
+| :---------------: | :----------------------------------------------------------------------------------- : | :----------------------- |
+
 | Language         |  C++, JavaSript , TypeScript, & Python     |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> <img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="python" width="30" height="30"/>  |
 
 | Mobile           | React Native Expo,  Google Maps API                                 | <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>                                                                                                                                                                    |
@@ -40,22 +41,24 @@
 
 | Competition Name       |    Project Name           | Achievement    |
 | :-----------------------------------------------------------: | :---------: | :------------- |
-|     Project Showcasing Competition Jagannath University | AgriVillage | [Champion] [agri] |
-|   EWU National Science Carnival 1.0 (Project showcase)            |     AgriVillage      | [2nd Runner Up][agri] |
-|                   MBSTU Robo Tech Olympiad                    |      [Go Bangladesh][goBd]      | [Champion at Project Showcasing] |
+|     Project Showcasing Competition Jagannath University | AgriVillage | [Champion][agri] |
+|   EWU National Science Carnival 1.0 (Project showcase)            |     AgriVillage  | [2nd Runner Up][agri]  |
+|                   MBSTU Robo Tech Olympiad                    |      [Go Bangladesh][goBd]      |  [Champion at Project Showcasing] |
 
-|    Software Showcasing in Nacter Robotic Olympiad, Bogura     |      [Go Bangladesh][goBd]      | [1st Runner Up]   |
-| Software Showcasing and Idea Competition - RUET CSE Fest 2022 |      [Go Bangladesh][goBd]      | [1st Runner Up in Software Showcasing and 2nd Runner Up in Idea Competition] |
+|    Software Showcasing in Nacter Robotic Olympiad, Bogura     |      [Go Bangladesh][goBd]      |  [1st Runner Up]   |
+ 
+| Software Showcasing and Idea Competition - RUET CSE Fest 2022 |      [Go Bangladesh][goBd]      |  [1st Runner Up in Software Showcasing and 2nd Runner Up in Idea Competition]  |
 
-|                  Mujib 100 idea contest 2021                  |      [Go Bangladesh][goBd]      | [Secured TOP 30]   |
+|                  Mujib 100 idea contest 2021                  |      [Go Bangladesh][goBd]      |   [Secured TOP 30]     |
 
-## Club and Other Activities
 
-|                       Rule                        |          Club/Organization Name           | Duration                                                                               |
+## Club
+
+|                       Rule                        |          Club Name           | Duration                                                                               |
 | :-----------------------------------------------------------: | :-----------------------------: | :---------------------------------------------------------------------------------------- |
 |               Secretory                 |  IEEE ComputerSociety JnU Student Branch | [2023-2024] |
                         
-|    Office Secretary                       |     Bangladesh Science Fiction Society JnU Branch.      | [2022-2023]   |
+|    Office Secretary        |     Bangladesh Science Fiction Society JnU Branch   |  [2022-2023]   |
 
 
 
@@ -63,7 +66,7 @@
 
 |                                     Work Description                                     |      Work Title      | Link                                      |
 | :--------------------------------------------------------------------------------------: | :------------------: | :---------------------------------------- |
-|                    Developed ISP Provider Web App                    |     reddata.com      | [visit site][reddata]                      |
+|                    Developed ISP Provider Web App                    |     reddata.com      | [visit site][reddata]    |
 |                         Developed Research and Development Web App                          | fbcciirc.org | [visit Site][fbcciirc]  |
 | Developed Degital Marketing Company Profile web site |   smarttrenddigital.com    | [Visit Site][smart]               |
 |                  Developed BIIN club organization Website                   | biin.network  | [visit site][biin] |
