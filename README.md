@@ -44,13 +44,57 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-|   Category         |   Skills    |   Icons      |
-| :---------------: | :------------------------------------------------ : | :-----------------------: |
-|   Language         |   C++, JavaScript, TypeScript, & Python     |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> <img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="python" width="30" height="30"/>  |
-|   Mobile           |  React Native Expo,  Google Maps API      |  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>                                                                        |
-|   Web              |   React JS & Next JS, Prisma, Node JS, Tailwind CSS, SCSS, Redux, MUI, Bootstrap  |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="next.js" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>    |
-|   Database         |  MongoDB, MySQL, Firebase  |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/>                  |
-|  Additional Skill  |  Linux, Git, GitHub, Docker, VPS Management, Vercel, cPanel, LaTeX, and more  |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>  |
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Skills</th>
+    <th>Icons</th>
+  </tr>
+  <tr>
+    <td>Language</td>
+    <td>C++, JavaScript, TypeScript, & Python</td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> 
+      <img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="python" width="30" height="30"/>
+    </td>
+  </tr>
+  <tr>
+    <td>Mobile</td>
+    <td>React Native Expo, Google Maps API</td>
+    <td>
+      <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+    </td>
+  </tr>
+  <tr>
+    <td>Web</td>
+    <td>React JS & Next JS, Prisma, Node JS, Tailwind CSS, SCSS, Redux, MUI, Bootstrap</td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> 
+      <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="next.js" width="30" height="30"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
+    </td>
+  </tr>
+  <tr>
+    <td>Database</td>
+    <td>MongoDB, MySQL, Firebase</td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> 
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/>
+    </td>
+  </tr>
+  <tr>
+    <td>Additional Skill</td>
+    <td>Linux, Git, GitHub, Docker, VPS Management, Vercel, cPanel, LaTeX, and more</td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
+    </td>
+  </tr>
+</table>
+
 
 ## AWARDS
 
@@ -63,7 +107,7 @@
 | Software Showcasing and Idea Competition - RUET CSE Fest 2022 | [Go Bangladesh][goBd] | 1st Runner Up in Software Showcasing and 2nd Runner Up in Idea Competition |
 | Mujib 100 idea contest 2021 | [Go Bangladesh][goBd] | Secured TOP 30 |
 
-## Club
+## CLUB
 
 | Rule | Club Name | Duration |
 | :---: | :---: | :---: |
