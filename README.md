@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajaul Karim</h1>
 <h3 align="center">A passionate MERN Stack Developer.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajaul2810&label=Profile%20views&color=0e75b6&style=flat" alt="rajaul2810" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajaul2810&label=Profile%20views&color=0e75b6&style=flat" alt="rajaul2810" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajaul2810" alt="rajaul2810" /></a> </p>
@@ -29,40 +27,39 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-| Category         | Skills                                                                                                                          | Icons                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| :--------------- | :------------------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Language         | C++, JavaSript , TypeScript, &Python                                                                                              | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> <img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="python" width="30" height="30"/> |
+| Category         | Skills    | Icons      |
+| :---------------: |:----------------------------------------------------------------------------------- : | :----------------------- |
+| Language         |  C++, JavaSript , TypeScript, & Python     |  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> <img src="https://www.python.org/static/opengraph-icon-200x200.png" alt="python" width="30" height="30"/>  |
 
 | Mobile           | React Native Expo,  Google Maps API                                 | <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>                                                                                                                                                                    |
-| Web              | React JS & Next JS, Prisma, Node JS, Tailwind CSS, SCSS, Redux, MUI, Bootstrap                                                               | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="next.js" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>                                                                                                                                                 |
+| Web              | React JS & Next JS, Prisma, Node JS, Tailwind CSS, SCSS, Redux, MUI, Bootstrap | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="next.js" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>    |
 | Database         | MongoDB, MySQL, Firebase                                                                                   |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/>                                                                                                                           |
-                                                                                                                                                                                                                                                                                                                                                    |
-| Additional Skill | Linux, Git, Github, Docker, VPS Management, Vercel, cPanel, LaTeX, and more | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
+| Additional Skill | Linux, Git, Github, Docker, VPS Management, Vercel, cPanel, LaTeX, and more | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> |
 
 ## AWARDS
 
-|                       Competition Name                        |          Project Name           | Achievement                                                                               |
-| :-----------------------------------------------------------: | :-----------------------------: | :---------------------------------------------------------------------------------------- |
-|               Project Showcasing Competition Jagannath University.                   | AgriVillage | [Champion][agri]                                                                          |
-|   EWU National Science Carnival 1.0 (Project showcase).                       |     AgriVillage      | [2nd Runner Up][agri]                                             |
-|                   MBSTU Robo Tech Olympiad                    |      [Go Bangladesh][goBd]      | [Champion at Project Showcasing]                                          |
+| Competition Name       |    Project Name           | Achievement    |
+| :-----------------------------------------------------------: | :---------: | :------------- |
+|     Project Showcasing Competition Jagannath University | AgriVillage | [Champion] [agri] |
+|   EWU National Science Carnival 1.0 (Project showcase)            |     AgriVillage      | [2nd Runner Up][agri] |
+|                   MBSTU Robo Tech Olympiad                    |      [Go Bangladesh][goBd]      | [Champion at Project Showcasing] |
 
-|    Software Showcasing in Nacter Robotic Olympiad, Bogura     |      [Go Bangladesh][goBd]      | [1st Runner Up]                                                    |
+|    Software Showcasing in Nacter Robotic Olympiad, Bogura     |      [Go Bangladesh][goBd]      | [1st Runner Up]   |
 | Software Showcasing and Idea Competition - RUET CSE Fest 2022 |      [Go Bangladesh][goBd]      | [1st Runner Up in Software Showcasing and 2nd Runner Up in Idea Competition] |
 
-|                  Mujib 100 idea contest 2021                  |      [Go Bangladesh][goBd]      | [Secured TOP 30]                                                                |
+|                  Mujib 100 idea contest 2021                  |      [Go Bangladesh][goBd]      | [Secured TOP 30]   |
 
 ## Club and Other Activities
 
 |                       Rule                        |          Club/Organization Name           | Duration                                                                               |
 | :-----------------------------------------------------------: | :-----------------------------: | :---------------------------------------------------------------------------------------- |
-|               Secretory,                   |  IEEE Computer
- Society JnU Student Branch | [2023-2024]                                                                         |
-|    Office Secretary                       |     Bangladesh Science Fiction Society JnU Branch.      | [2022-2023]   
-                                          |
+|               Secretory                 |  IEEE ComputerSociety JnU Student Branch | [2023-2024] |
+                        
+|    Office Secretary                       |     Bangladesh Science Fiction Society JnU Branch.      | [2022-2023]   |
 
 
-## SOME Client WORK
+
+## Some Client WORK
 
 |                                     Work Description                                     |      Work Title      | Link                                      |
 | :--------------------------------------------------------------------------------------: | :------------------: | :---------------------------------------- |
@@ -85,10 +82,3 @@
 <!-- project links -->
 
 [goBd]: https://go-bangladesh.com/
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajaul2810&show_icons=true&locale=en&layout=compact" alt="rajaul2810" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajaul2810&show_icons=true&locale=en" alt="rajaul2810" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajaul2810&" alt="rajaul2810" /></p>
