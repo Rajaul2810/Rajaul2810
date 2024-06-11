@@ -124,9 +124,9 @@
 | Developed BIIN club organization Website | biin.network | [visit site][biin] |
 
 <!-- links -->
-[reddata]: https://red-data.vercel.app/
+[reddata]: https://reddata.com.bd/
 [fbcciirc]: https://fbcciirc.org/
-[smart]: https://rajaul2810.github.io/smart_trend_digital/
+[smart]: https://smarttrenddigital.com/
 [biin]: https://www.biin.network/
 
 <!-- achievement links-->
